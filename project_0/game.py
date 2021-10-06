@@ -9,11 +9,11 @@ count = 0  # number of attempts
 
 while True:
     count += 1
-    predict_number = int(input("Guess a number from 1 to 100 "))
+    predict_number = int(input("Угадай число от 1 до 100: "))
     if predict_number > number:
-        print("The number must be less!")
+        print("Число должно быть меньше!")
     elif predict_number < number:
-        print("The number must be larger!")
+        print("Число должно быть больше!")
     else:
-        print(f"You guessed the number! This number = {number}, in {count} attempts :0")
+        print(f"Вы угадали число! Это число = {number}, за {count} попыток")
         break  # end of the game, exit from the cycle

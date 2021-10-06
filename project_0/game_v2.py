@@ -19,7 +19,7 @@ def random_predict(number: int=1) -> int:
         predict_number = np.random.randint(1, 101)  #  estimated number
         if number == predict_number:
             break  #  end of the cycle if it guess
-        elif count >= 20:
+        elif count >= 20:  #  condition no more than 20 attempts
             break
     return(count)
 
@@ -34,14 +34,14 @@ def score_game(random_predict) -> int:
         int: average number of attempts
     """
     count_ls = []  #  list to save the number of attempts
-    #np.random.seed(1)  #  fix the value for reproducibility
+    np.random.seed(1)  #  fix the value for reproducibility
     random_array = np.random.randint(1, 101, size=(1000))  #  made a list of numbers
 
     for number in random_array:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls))  #  find the average number of attempts
-    print(f'Your algorithm guesses the number on average in: {score} tries')
+    print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток")
     return(score)
 
 if __name__ == '__main__':
