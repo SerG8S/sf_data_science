@@ -1,4 +1,6 @@
-"Automation of the game 'Guess the number'"
+"""Игра угадай число
+Компьютер сам загадывает и сам угадывает число
+"""
 
 import numpy as np
 

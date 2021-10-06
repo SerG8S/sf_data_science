@@ -1,4 +1,4 @@
-"Game guess the number"
+"""Игра угадай число"""
 
 import numpy as np
 from numpy.random.mtrand import f
