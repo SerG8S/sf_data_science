@@ -79,7 +79,7 @@
 - 9.10. Переведите числовой признак CreditScore в категориальный. Для этого воспользуйтесь функцией get_credit_score_cat(), которая приведена ниже. Примените её к столбцу CreditScore и создайте новый признак CreditScoreCat — категории кредитного рейтинга.
 5. Написал программу для обработки данных и построения графиков:
 
-[Project_Visualisation.ipynb](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/Project_Visualisation.ipynb) - проект ноутбука с графиками.
+[project_visualisation.ipynb](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/project_visualisation.ipynb) - проект ноутбука с графиками.
 
 6. Ответил на вопросы ввиде графиков и выводов к ним.
 
