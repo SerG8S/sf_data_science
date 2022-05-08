@@ -64,7 +64,7 @@
    3. Seaborn;
    4. Plotly.
 2. Загрузил дата фрейм:
-- ['churn.csv'](https://cloud.mail.ru/public/YAqu/WRkWEJZmm)
+- ['churn.csv'](https://disk.yandex.ru/d/QgDTR9dicf5zRQ)
 3. Выполнил предобработку данных:
    1. Удалил незадействованные столбцы:
       1. RowNumber — номер строки таблицы;
