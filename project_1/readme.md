@@ -3,12 +3,12 @@
 
 ## Оглавление
 
-* [1. Описание проекта](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Описание-проекта)
-* [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Какой-кейс-решаем)
-* [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
-* [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
+* [1. Описание проекта](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Описание-проекта)
+* [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Результат)
+* [6. Выводы](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Выводы)
 
 ## Описание проекта
 
@@ -94,12 +94,12 @@
 
 - Ответ: 'Мужчина ,  39 лет , родился 27 ноября 1979' - <Пол , возраст , дата рождения>
 
-- 2.3. Задание
+### 2.3. Задание
 Выведите основную информацию о числе непустых значений в столбцах и их типах в таблице. Какой тип данных имеют все столбцы?
 
 - Ответ: object (total 12 columns)
 
-- 2.4. Задание
+### 2.4. Задание
 Обратите внимание на информацию о числе непустых значений.
 Отобразите все признаки, в которых есть пропуски в данных:
 
@@ -109,7 +109,7 @@
 Последнее/нынешнее место работы      1
 Последняя/нынешняя должность         2
 
-- 2.5. Задание
+### 2.5. Задание
 Выведите основную статистическую информацию о столбцах.
 Сколько уникальных значений содержится в столбце «Опыт работы»?
 
