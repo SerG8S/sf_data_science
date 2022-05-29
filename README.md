@@ -6,4 +6,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-science
 
 * [Проект 0. Игра: Угадай число](https://github.com/SerG8S/sf_data_science/tree/main/project_0)
 * [Проект Визуализация. Практика визуализации данных](https://github.com/SerG8S/sf_data_science/tree/main/project_visualisation)
-* [Проект 1. Анализ вакансий из HH](https://github.com/SerG8S/sf_data_science/tree/main/)
+* [Проект 1. Анализ вакансий из HH](https://github.com/SerG8S/sf_data_science/tree/main/project_1)
