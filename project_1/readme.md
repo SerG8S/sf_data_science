@@ -100,18 +100,18 @@ Plotly.
 
 Data columns (total 12 columns):
 
- 0   Пол, возраст                     44744 non-null  object
- 1   ЗП                               44744 non-null  object
- 2   Ищет работу на должность:        44744 non-null  object
- 3   Город, переезд, командировки     44744 non-null  object
- 4   Занятость                        44744 non-null  object
- 5   График                           44744 non-null  object
- 6   Опыт работы                      44576 non-null  object
- 7   Последнее/нынешнее место работы  44743 non-null  object
- 8   Последняя/нынешняя должность     44742 non-null  object
- 9   Образование и ВУЗ                44744 non-null  object
- 10  Обновление резюме                44744 non-null  object
- 11  Авто                             44744 non-null  object
+- Пол, возраст                     44744 non-null  object
+- ЗП                               44744 non-null  object
+- Ищет работу на должность:        44744 non-null  object
+- Город, переезд, командировки     44744 non-null  object
+- Занятость                        44744 non-null  object
+- График                           44744 non-null  object
+- Опыт работы                      44576 non-null  object
+- Последнее/нынешнее место работы  44743 non-null  object
+- Последняя/нынешняя должность     44742 non-null  object
+- Образование и ВУЗ                44744 non-null  object
+- Обновление резюме                44744 non-null  object
+- Авто                             44744 non-null  object
 
 - 2.4. Задание
 Обратите внимание на информацию о числе непустых значений.
@@ -132,6 +132,15 @@ Data columns (total 12 columns):
 - Какая из искомых должностей самая распространённая? Введите название.
 
 - Ответ: Системный администратор
+
+
+
+
+
+
+
+
+
 
 Столбцы таблицы (ExchangeRates.csv):
 
