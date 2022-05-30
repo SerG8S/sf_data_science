@@ -75,21 +75,20 @@
 - Номинальные (Geography, Gender(c английского на русский));
 - Порядковыми (NumOfProducts), а также они являются бинарными(HasCrCard, IsActiveMember, Exited), поэтому их можно преобразовать в текстовую информацию (object).
 
-- Data columns (total 12 columns):
--     Column           Non-Null Count  Dtype  
- 
-- 0   CustomerId       10000 non-null  int64  
-- 1   CreditScore      10000 non-null  int64  
-- 2   Geography        10000 non-null  object 
-- 3   Gender           10000 non-null  object 
-- 4   Age              10000 non-null  int64  
-- 5   Tenure           10000 non-null  int64  
-- 6   Balance          10000 non-null  float64
-- 7   NumOfProducts    10000 non-null  int64  
-- 8   HasCrCard        10000 non-null  object 
-- 9   IsActiveMember   10000 non-null  object 
-- 10  EstimatedSalary  10000 non-null  float64
-- 11  Exited           10000 non-null  object 
+- Столбцы данных (всего 12 столбцов):
+
+- CustomerId - int64  
+- CreditScore - int64  
+- Geography - object 
+- Gender - object 
+- Age - int64  
+- Tenure - int64  
+- Balance - float64
+- NumOfProducts - int64  
+- HasCrCard - object 
+- IsActiveMember - object 
+- EstimatedSalary - float64
+- Exited - object 
 
 5. Выполнил предобработку данных:
    1. Разделение клиентов по статусу лояльности (ratio_df).
