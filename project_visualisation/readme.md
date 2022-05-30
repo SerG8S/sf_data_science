@@ -74,6 +74,23 @@
 Например, загруженные нами ранее признаки: NumOfProducts, HasCrCard, IsActiveMember, Exited кодируется числом (int64), но на самом деле является категориальным, поскольку диапазон их значений ограничен и каждому числу мы можем поставить соответствующее значение. Поэтому признаки могут быть разделены:
 - Номинальные (Geography, Gender(c английского на русский));
 - Порядковыми (NumOfProducts), а также они являются бинарными(HasCrCard, IsActiveMember, Exited), поэтому их можно преобразовать в текстовую информацию (object).
+
+Data columns (total 12 columns):
+     Column           Non-Null Count  Dtype  
+ 
+ 0   CustomerId       10000 non-null  int64  
+ 1   CreditScore      10000 non-null  int64  
+ 2   Geography        10000 non-null  object 
+ 3   Gender           10000 non-null  object 
+ 4   Age              10000 non-null  int64  
+ 5   Tenure           10000 non-null  int64  
+ 6   Balance          10000 non-null  float64
+ 7   NumOfProducts    10000 non-null  int64  
+ 8   HasCrCard        10000 non-null  object 
+ 9   IsActiveMember   10000 non-null  object 
+ 10  EstimatedSalary  10000 non-null  float64
+ 11  Exited           10000 non-null  object 
+
 5. Выполнил предобработку данных:
    1. Разделение клиентов по статусу лояльности (ratio_df).
    2. Отфильтрованные клиенты из-за баланса в соответствии с условием более 2.5 тысячь $ (balance).
