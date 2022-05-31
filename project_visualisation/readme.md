@@ -4,22 +4,36 @@
 
 * [1. Описание проекта](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Описание-проекта)
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Какой-кейс-решаем)
+* * [Условия соревнования](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Условия-соревнования)
+* * [Метрика качества](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Метрика-качества)
+* * [Что практикуем](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Что-практикуем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
 * * [4.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#41-задание)
 * * [4.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#42-задание)
 * * [4.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#43-задание)
 * * [4.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#44-задание)
+* * [4.5. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#45-задание)
+* * [4.6. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#46-задание)
+* * [4.7. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#47-задание)
+* * [4.8. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#48-задание)
+* * [4.9. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#49-задание)
+* * [4.10. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#410-задание)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
+* * [project_visualisation.ipynb](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/project_visualisation.ipynb)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
 
 ## Описание проекта
 
 ⭐ Настало время попробовать свои силы в настоящей Data Science задаче с Kaggle.
 
-**Бизнес:** Банк хочет разработать кампанию лояльности по удержанию клиентов, но для этого ему необходимо, чтобы вы выяснили основные причины оттока клиентов.
+**Бизнес:** 
 
-**Задача:** Нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
+Банк хочет разработать кампанию лояльности по удержанию клиентов, но для этого ему необходимо, чтобы вы выяснили основные причины оттока клиентов.
+
+**Задача:** 
+
+Нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
 
 Вам представлены данные об оттоке клиентов некоторого банка. Для начала работы с базой данных необходимо загрузить необходимые библиотеки по обработке данных и последующей визуализации.
 
@@ -29,17 +43,17 @@
 
 Отчёт должен содержать ответы на приведённые ниже вопросы в виде графиков и подробных выводов, которые вы можете сделать, исходя из него.
 
-**Условия соревнования:**
+### Условия соревнования
 
 В файле должно содержаться 10 графиков — 10 ответов к заданиям.
 
-**Метрика качества**
+### Метрика качества
 
 Каждый график и преобразования к нему выполняются в отдельной ячейке.
 
 Под графиком вы должны предоставить свой ответ на вопрос по нему и, если это требуется, выводы, которые вы можете сделать, исходя из графика.
 
-Используя доступные средства визуализации в среде разработки Jupyter Notebook и согласно правилам визуализации выполнить задание по построению графиков на основе дата фрейма:
+Используя доступные средства визуализации в среде разработки Jupyter Notebook(Pandas, Matplotlib, Seaborn, Plotly) и согласно правилам визуализации выполнить задание по построению графиков на основе дата фрейма:
 
    1. Первое и самое главное правило — график должен быть информативным и понятным. То есть любой человек, взглянув на ваш график, должен понять, что на нём изображено. Для этого всегда подписывайте оси графика или сам график, делайте интервалы между отметками на осях, не используйте слишком много графиков на одной координатной плоскости.
    2. Одна плоскость — один вид графика. Не стоит смешивать типы визуализации, это делает результат нечитабельным.
@@ -53,9 +67,9 @@
 Наконец, в завершение темы визуализации предлагаем вам ознакомиться со схемой, на которую вы можете ориентироваться при выборе типа визуализации для своих реальных задач:
 ![Иллюстрация к проекту](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/diagrams.png)
 
-**Что практикуем**
+### Что практикуем
 
-- Исскуство визуализации, можно использовать любую из изученных библиотек (Pandas, Matplotlib, Seaborn, Plotly).
+- Исскуство визуализации, можно использовать любую из изученных библиотек.
 - Перед выполнением задания обязательно подумайте, какие признаки в данных являются числовыми, а какие — категориальными.
 - При выполнении заданий обязательно придерживайтесь критериев правильной визуализации.
 
