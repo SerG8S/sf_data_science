@@ -6,8 +6,8 @@
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
-* * [4.1. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md###4.1. Задание №1)
-* * [4.2. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md###4.2. Задание №2)
+* * [4.1. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.1 Задание)
+* * [4.2. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.2 Задание)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
 
@@ -121,12 +121,12 @@
    9. Создаем функция для преобразования числового признака в категориальный (get_credit_score_cat (Задание 9.10)).
 
 6. Согласно списку вопросов от банка, предоставил ответ в ввиде графиков и письменных пояснений к ним, которые представлены ниже и выводы к ним:
-### 4.1.Задание №1
+### 4.1. Задание
 - 1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.
 ![Иллюстрация к проекту](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/ratio_.png)
 - Выводы:
 Количество лояльных клиентов практически в 4 раза больше, чем ушедших. Позитивный показатель, который говорит об отсутсвии массового оттока клиентов, не более 20%.
-### 4.2.Задание №2
+### 4.2. Задание
 - 2. Постройте график, показывающий распределение баланса пользователей, у которых на счету больше 2 500 долларов. Опишите распределение и сделайте выводы.
 ![Иллюстрация к проекту](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/balance.png)
 - Выводы:
