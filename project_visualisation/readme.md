@@ -6,7 +6,7 @@
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
-* [4.1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md##4.1)
+* [4.1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.1)
 * [4.2](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md##4.2)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
@@ -121,7 +121,7 @@
    9. Создаем функция для преобразования числового признака в категориальный (get_credit_score_cat (Задание 9.10)).
 
 6. Согласно списку вопросов от банка, предоставил ответ в ввиде графиков и письменных пояснений к ним, которые представлены ниже и выводы к ним:
-### 4.1
+## 4.1
 - 1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.
 ![Иллюстрация к проекту](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/ratio_.png)
 - Выводы:
