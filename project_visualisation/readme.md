@@ -127,13 +127,13 @@
 
 5. Выполнил предобработку данных:
 
-   1. Разделение клиентов по статусу лояльности (ratio_df).
-   2. Отфильтрованные клиенты из-за баланса в соответствии с условием более 2.5 тысячь $ (balance).
-   3. Баланс на карте равен 0 (balance_0).
-   4. Делаем сводную таблицу предполагаемой средней заработной платы клиента от его кредитного рейтинга и разделения клиентов (credit).
-   5. Создаем признак ушедших клиентов (gone) и фильтруем по полу (gender).
-   6. Делаем сводную таблицу зависимости оттока клиентов от числа приобретённых у банка услуг (bar_data).
-   7. Делаем сводную таблицу зависимости наличия статуса активного клиента на отток клиентов (activ).
+   1. Разделение клиентов по статусу лояльности ([ratio_df](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#41-задание)).
+   2. Отфильтрованные клиенты из-за баланса в соответствии с условием более 2.5 тысячь $ ([balance](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#42-задание)).
+   3. Баланс на карте равен 0 ([balance_0](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#44-задание)).
+   4. Делаем сводную таблицу предполагаемой средней заработной платы клиента от его кредитного рейтинга и разделения клиентов ([credit](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#45-задание)).
+   5. Создаем признак ушедших клиентов (gone) и фильтруем по полу ([gender](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#46-задание)).
+   6. Делаем сводную таблицу зависимости оттока клиентов от числа приобретённых у банка услуг ([bar_data](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#47-задание)).
+   7. Делаем сводную таблицу зависимости наличия статуса активного клиента на отток клиентов ([activ](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#48-задание)).
    8. Преобразуем признак (Exited) в числовой и сделаем сводную таблицу стран в которых есть ушедшие клиенты ([countryes](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#49-задание)).
    9. Создаем функция для преобразования числового признака в категориальный ([get_credit_score_cat](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#410-задание)).
 
