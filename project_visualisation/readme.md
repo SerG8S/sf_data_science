@@ -7,8 +7,9 @@
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
 * * [4.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#41-задание)
-* * [4.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md##42-задание)
-* * [4.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md##43-задание)
+* * [4.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#42-задание)
+* * [4.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#43-задание)
+* * [4.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#44-задание)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
 
