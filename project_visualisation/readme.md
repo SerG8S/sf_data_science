@@ -6,8 +6,8 @@
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Этапы-работы-над-проектом)
-* * [4.1. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.1 Задание)
-* * [4.2. Задание №1](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.2 Задание)
+* [4.1 Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.1 Задание)
+* [4.2 Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#4.2 Задание)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
 
