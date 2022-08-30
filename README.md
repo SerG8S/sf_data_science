@@ -1,6 +1,7 @@
-# My Data Science projects
+# Мои проекты в области науки о данных.
 
-From the [SkillFactory Data Science course](https://skillfactory.ru/data-science).
+Из [Фабрики навыков Учённый по данным](https://skillfactory.ru/data-science).
+Правила при создании [проектов](https://github.com/SerG8S/sf_data_science/blob/main/The_Zen_of_Python.md).
 
 ## Проекты 
 
