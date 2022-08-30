@@ -1,7 +1,7 @@
 # Мои проекты в области науки о данных
 
 * Из [Фабрики навыков](https://skillfactory.ru) IT-профессия [Учённый по данным](https://skillfactory.ru/data-science-specialization)
-* Правила при создании [проектов](https://github.com/SerG8S/sf_data_science/blob/main/The_Zen_of_Python.md).
+* Согласно правилам создания [проектов](https://github.com/SerG8S/sf_data_science/blob/main/The_Zen_of_Python.md).
 
 ## Проекты 
 
