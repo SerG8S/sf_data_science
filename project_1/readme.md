@@ -596,7 +596,7 @@ histplot.axvline(log_age.mean(), color='k', lw=2)
 
 ## Результат
 
-Написана программа [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb), которая будет использоваться для построения модели, но прежде чем построить, данные необходимо преобразовать, исследовать и очистить. По результатам обработки, сохранен очишенный датасет [hh_database_cleared](https://github.com/SerG8S/sf_data_science/blob/main/project_1/hh_database_cleared.csv).
+Написана программа [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb), которая будет использоваться для построения модели, но прежде чем построить, данные необходимо преобразовать, исследовать и очистить. По результатам обработки, сохранен очишенный датасет [hh_database_cleared](https://disk.yandex.ru/d/Jex6LTC_Yn-5eQ).
 
 ## Выводы
 
