@@ -73,6 +73,7 @@
 
 - Pandas;
 - Numpy;
+- Matplotlib;
 - Counter;
 - Plotly;
 - Seaborn.
