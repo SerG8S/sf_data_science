@@ -31,7 +31,7 @@
 * * [4.8. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-48)
 * * [4.9. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-49)
 * * [4.10. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-410)
-* * [4.5. Очистка данных:](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#4-исследование-зависимостей-в-данных)
+* * [4.5. Очистка данных:](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#5-очистка-данных)
 * * [5.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-51)
 * * [5.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-52)
 * * [5.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#задание-53)
