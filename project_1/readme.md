@@ -3,7 +3,7 @@
 
 ## Оглавление
 
-* [1. Описание проекта](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Описание-проекта)
+* [1. Описание проекта](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Описание-проекта)
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#Этапы-работы-над-проектом)
