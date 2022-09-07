@@ -22,7 +22,7 @@
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Результат)
 * * [project_visualisation.ipynb](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/project_visualisation.ipynb)
 * [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#Выводы)
-** [Учённый по данным](https://skillfactory.ru/data-science-specialization)
+* * [Учённый по данным](https://skillfactory.ru/data-science-specialization)
 
 ## Описание проекта
 
