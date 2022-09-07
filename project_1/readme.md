@@ -7,8 +7,35 @@
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Этапы-работы-над-проектом)
+* * [2.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#21-задание)
+* * [2.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#22-задание)
+* * [2.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#23-задание)
+* * [2.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#24-задание)
+* * [2.5. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#25-задание)
+* * [3.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#31-задание)
+* * [3.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#32-задание)
+* * [3.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#33-задание)
+* * [3.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#34-задание)
+* * [3.5. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#35-задание)
+* * [3.6. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#36-задание)
+* * [4.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#41-задание)
+* * [4.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#42-задание)
+* * [4.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#43-задание)
+* * [4.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#44-задание)
+* * [4.5. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#45-задание)
+* * [4.6. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#46-задание)
+* * [4.7. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#47-задание)
+* * [4.8. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#48-задание)
+* * [4.9. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#49-задание)
+* * [4.10. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#410-задание)
+* * [5.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#51-задание)
+* * [5.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#52-задание)
+* * [5.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#53-задание)
+* * [5.4. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#54-задание)
+* * [5.5. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#55-задание)
+* * [5.6. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_visualisation/readme.md#56-задание)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Результат)
-* * [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb)
+* * [project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb)
 * [6. Вывод](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Вывод)
 
 ## Описание проекта
@@ -598,7 +625,7 @@ histplot.axvline(log_age.mean(), color='k', lw=2)
 
 ## Результат
 
-Написана программа [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb), которая будет использоваться для построения модели, но прежде чем построить, данные необходимо преобразовать, исследовать и очистить. По результатам обработки, сохранен очишенный датасет [hh_database_cleared](https://disk.yandex.ru/d/Jex6LTC_Yn-5eQ).
+Написана программа [project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb), которая будет использоваться для построения модели, но прежде чем построить, данные необходимо преобразовать, исследовать и очистить. По результатам обработки, сохранен очишенный датасет [hh_database_cleared](https://disk.yandex.ru/d/Jex6LTC_Yn-5eQ).
 
 ## Вывод
 
