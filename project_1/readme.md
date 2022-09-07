@@ -5,8 +5,8 @@
 
 * [1. Описание проекта](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Описание-проекта)
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Какой-кейс-решаем)
-* * [Условия](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#что-необходимо-сделать-для-успешного-выполнения-проекта)
-* * [Требования](https://github.com/SerG8S/sf_data_science/edit/main/project_1/readme.md#требования-к-оформлению-ноутбука-решения)
+* * [Условия](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#что-необходимо-сделать-для-успешного-выполнения-проекта)
+* * [Требования](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#требования-к-оформлению-ноутбука-решения)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Этапы-работы-над-проектом)
 * * [4.2. Исследование структуры данных:](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#2-исследование-структуры-данных)
