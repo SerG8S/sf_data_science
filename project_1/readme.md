@@ -41,6 +41,7 @@
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Результат)
 * * [project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb)
 * [6. Вывод](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Вывод)
+* * [Учённый по данным](https://skillfactory.ru/data-science-specialization)
 
 ## Описание проекта
 
