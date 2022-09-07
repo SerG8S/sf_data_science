@@ -87,7 +87,7 @@
 
 ## Краткая информация о данных
 
-Столбцы таблицы (hh_database.csv)(https://disk.yandex.ru/d/jiimXti754OpyA):
+Столбцы таблицы [hh_database.csv](https://disk.yandex.ru/d/jiimXti754OpyA):
 
 - Пол, возраст;
 - ЗП;
