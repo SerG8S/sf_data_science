@@ -7,6 +7,7 @@
 * [2. Какой кейс решаем?](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Этапы-работы-над-проектом)
+* * [4.2. Исследование структуры данных:](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#2-исследование-структуры-данных)
 * * [2.1. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#21-задание)
 * * [2.2. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#22-задание)
 * * [2.3. Задание](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#23-задание)
@@ -106,7 +107,7 @@
 - Plotly;
 - Seaborn.
 
-### 2. Исследование структуры данных: 
+### 2. Исследование структуры данных:
 ✍ Начинаем мы, конечно же, со знакомства с данными и исследования их структуры. Нам важно понять, как устроены признаки в данных и какие типы они имеют, чтобы произвести дальнейшие преобразования.
 
 #### 2.1. Задание
