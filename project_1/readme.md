@@ -9,7 +9,7 @@
 * [4. Этапы работы над проектом](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Этапы-работы-над-проектом)
 * [5. Результат](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Результат)
 * * [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb)
-* [6. Выводы](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Выводы)
+* [6. Вывод](https://github.com/SerG8S/sf_data_science/blob/main/project_1/readme.md#Вывод)
 
 ## Описание проекта
 
@@ -600,6 +600,6 @@ histplot.axvline(log_age.mean(), color='k', lw=2)
 
 Написана программа [Project_1](https://github.com/SerG8S/sf_data_science/blob/main/project_1/Project_1.ipynb), которая будет использоваться для построения модели, но прежде чем построить, данные необходимо преобразовать, исследовать и очистить. По результатам обработки, сохранен очишенный датасет [hh_database_cleared](https://disk.yandex.ru/d/Jex6LTC_Yn-5eQ).
 
-## Выводы
+## Вывод
 
 В процессе написания программы приобретены навыки работы с необходимыми инструментами для профессии [Учённый по данным](https://skillfactory.ru/data-science-specialization).
